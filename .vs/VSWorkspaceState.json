@@ -5,8 +5,8 @@
     "\\my-app\\public",
     "\\my-app\\src",
     "\\my-app\\src\\components",
+    "\\my-app\\src\\components\\about",
     "\\my-app\\src\\components\\intro"
   ],
-  "SelectedNode": "\\my-app\\src\\App.jsx",
   "PreviewInSolutionExplorer": false
 }
